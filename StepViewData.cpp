@@ -419,5 +419,3 @@ bool StepViewData::runState()
         return true;
     return false;
 }
-
-
