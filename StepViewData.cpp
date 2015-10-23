@@ -1,4 +1,5 @@
 #include "StepViewData.h"
+#include "QString"
 
 StepViewData::StepViewData(QObject *parent) : QObject(parent)
 {
@@ -418,3 +419,5 @@ bool StepViewData::runState()
         return true;
     return false;
 }
+
+
