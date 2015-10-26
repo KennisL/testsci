@@ -4,3 +4,6 @@
 SciStepViewer::SciStepViewer()
 {
 }
+SciStepViewer::SciStepViewer()
+{
+}
